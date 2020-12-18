@@ -1,0 +1,189 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\FH\\semester-3\\Algodat Übung\\GisApp\\KmlTester\\KmlTester.csproj": {}
+  },
+  "projects": {
+    "E:\\FH\\semester-3\\Algodat Übung\\GisApp\\Coordinator\\Coordinator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\FH\\semester-3\\Algodat Übung\\GisApp\\Coordinator\\Coordinator.csproj",
+        "projectName": "Coordinator",
+        "projectPath": "E:\\FH\\semester-3\\Algodat Übung\\GisApp\\Coordinator\\Coordinator.csproj",
+        "packagesPath": "C:\\Users\\nicos\\.nuget\\packages\\",
+        "outputPath": "E:\\FH\\semester-3\\Algodat Übung\\GisApp\\Coordinator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nicos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\FH\\semester-3\\Algodat Übung\\GisApp\\GisApp\\GisApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\FH\\semester-3\\Algodat Übung\\GisApp\\GisApp\\GisApp.csproj",
+        "projectName": "GisApp",
+        "projectPath": "E:\\FH\\semester-3\\Algodat Übung\\GisApp\\GisApp\\GisApp.csproj",
+        "packagesPath": "C:\\Users\\nicos\\.nuget\\packages\\",
+        "outputPath": "E:\\FH\\semester-3\\Algodat Übung\\GisApp\\GisApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nicos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\FH\\semester-3\\Algodat Übung\\GisApp\\Coordinator\\Coordinator.csproj": {
+                "projectPath": "E:\\FH\\semester-3\\Algodat Übung\\GisApp\\Coordinator\\Coordinator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\FH\\semester-3\\Algodat Übung\\GisApp\\KmlTester\\KmlTester.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\FH\\semester-3\\Algodat Übung\\GisApp\\KmlTester\\KmlTester.csproj",
+        "projectName": "KmlTester",
+        "projectPath": "E:\\FH\\semester-3\\Algodat Übung\\GisApp\\KmlTester\\KmlTester.csproj",
+        "packagesPath": "C:\\Users\\nicos\\.nuget\\packages\\",
+        "outputPath": "E:\\FH\\semester-3\\Algodat Übung\\GisApp\\KmlTester\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nicos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\FH\\semester-3\\Algodat Übung\\GisApp\\Coordinator\\Coordinator.csproj": {
+                "projectPath": "E:\\FH\\semester-3\\Algodat Übung\\GisApp\\Coordinator\\Coordinator.csproj"
+              },
+              "E:\\FH\\semester-3\\Algodat Übung\\GisApp\\GisApp\\GisApp.csproj": {
+                "projectPath": "E:\\FH\\semester-3\\Algodat Übung\\GisApp\\GisApp\\GisApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

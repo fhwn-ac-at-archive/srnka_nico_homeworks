@@ -1,0 +1,16 @@
+E:\FH\semester-3\Algodat Übung\GisApp\GisApp\obj\Debug\netcoreapp3.1\GisApp.csprojAssemblyReference.cache
+E:\FH\semester-3\Algodat Übung\GisApp\GisApp\obj\Debug\netcoreapp3.1\GisApp.csproj.CoreCompileInputs.cache
+E:\FH\semester-3\Algodat Übung\GisApp\GisApp\obj\Debug\netcoreapp3.1\GisApp.AssemblyInfoInputs.cache
+E:\FH\semester-3\Algodat Übung\GisApp\GisApp\obj\Debug\netcoreapp3.1\GisApp.AssemblyInfo.cs
+E:\FH\semester-3\Algodat Übung\GisApp\GisApp\bin\Debug\netcoreapp3.1\GisApp.exe
+E:\FH\semester-3\Algodat Übung\GisApp\GisApp\bin\Debug\netcoreapp3.1\GisApp.deps.json
+E:\FH\semester-3\Algodat Übung\GisApp\GisApp\bin\Debug\netcoreapp3.1\GisApp.runtimeconfig.json
+E:\FH\semester-3\Algodat Übung\GisApp\GisApp\bin\Debug\netcoreapp3.1\GisApp.runtimeconfig.dev.json
+E:\FH\semester-3\Algodat Übung\GisApp\GisApp\bin\Debug\netcoreapp3.1\GisApp.dll
+E:\FH\semester-3\Algodat Übung\GisApp\GisApp\bin\Debug\netcoreapp3.1\GisApp.pdb
+E:\FH\semester-3\Algodat Übung\GisApp\GisApp\bin\Debug\netcoreapp3.1\Coordinator.dll
+E:\FH\semester-3\Algodat Übung\GisApp\GisApp\bin\Debug\netcoreapp3.1\Coordinator.pdb
+E:\FH\semester-3\Algodat Übung\GisApp\GisApp\obj\Debug\netcoreapp3.1\GisApp.csproj.CopyComplete
+E:\FH\semester-3\Algodat Übung\GisApp\GisApp\obj\Debug\netcoreapp3.1\GisApp.dll
+E:\FH\semester-3\Algodat Übung\GisApp\GisApp\obj\Debug\netcoreapp3.1\GisApp.pdb
+E:\FH\semester-3\Algodat Übung\GisApp\GisApp\obj\Debug\netcoreapp3.1\GisApp.genruntimeconfig.cache

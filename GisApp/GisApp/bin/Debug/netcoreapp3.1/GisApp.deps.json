@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GisApp/1.0.0": {
+        "dependencies": {
+          "Coordinator": "1.0.0"
+        },
+        "runtime": {
+          "GisApp.dll": {}
+        }
+      },
+      "Coordinator/1.0.0": {
+        "runtime": {
+          "Coordinator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GisApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Coordinator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
