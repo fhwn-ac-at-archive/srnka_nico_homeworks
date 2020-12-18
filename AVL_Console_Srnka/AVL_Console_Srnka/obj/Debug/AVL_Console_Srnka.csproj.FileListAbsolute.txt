@@ -1,0 +1,7 @@
+E:\FH\semester-3\Algodat Übung\AVL_Console_Srnka\AVL_Console_Srnka\obj\Debug\AVL_Console_Srnka.csprojAssemblyReference.cache
+E:\FH\semester-3\Algodat Übung\AVL_Console_Srnka\AVL_Console_Srnka\obj\Debug\AVL_Console_Srnka.csproj.CoreCompileInputs.cache
+E:\FH\semester-3\Algodat Übung\AVL_Console_Srnka\AVL_Console_Srnka\bin\Debug\AVL_Console_Srnka.exe.config
+E:\FH\semester-3\Algodat Übung\AVL_Console_Srnka\AVL_Console_Srnka\bin\Debug\AVL_Console_Srnka.exe
+E:\FH\semester-3\Algodat Übung\AVL_Console_Srnka\AVL_Console_Srnka\bin\Debug\AVL_Console_Srnka.pdb
+E:\FH\semester-3\Algodat Übung\AVL_Console_Srnka\AVL_Console_Srnka\obj\Debug\AVL_Console_Srnka.exe
+E:\FH\semester-3\Algodat Übung\AVL_Console_Srnka\AVL_Console_Srnka\obj\Debug\AVL_Console_Srnka.pdb

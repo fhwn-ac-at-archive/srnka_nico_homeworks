@@ -1,0 +1,7 @@
+E:\FH\semester-3\Algodat Übung\SudokuSolver_Srnka\SudokuSolver_Srnka\bin\Debug\SudokuSolver_Srnka.exe.config
+E:\FH\semester-3\Algodat Übung\SudokuSolver_Srnka\SudokuSolver_Srnka\bin\Debug\SudokuSolver_Srnka.exe
+E:\FH\semester-3\Algodat Übung\SudokuSolver_Srnka\SudokuSolver_Srnka\bin\Debug\SudokuSolver_Srnka.pdb
+E:\FH\semester-3\Algodat Übung\SudokuSolver_Srnka\SudokuSolver_Srnka\obj\Debug\SudokuSolver_Srnka.csprojAssemblyReference.cache
+E:\FH\semester-3\Algodat Übung\SudokuSolver_Srnka\SudokuSolver_Srnka\obj\Debug\SudokuSolver_Srnka.csproj.CoreCompileInputs.cache
+E:\FH\semester-3\Algodat Übung\SudokuSolver_Srnka\SudokuSolver_Srnka\obj\Debug\SudokuSolver_Srnka.exe
+E:\FH\semester-3\Algodat Übung\SudokuSolver_Srnka\SudokuSolver_Srnka\obj\Debug\SudokuSolver_Srnka.pdb
