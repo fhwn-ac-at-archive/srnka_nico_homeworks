@@ -5,3 +5,10 @@ E:\FH\semester-3\Algodat Übung\Befunge93_Srnka\Befunge93_Srnka\obj\Debug\Befung
 E:\FH\semester-3\Algodat Übung\Befunge93_Srnka\Befunge93_Srnka\obj\Debug\Befunge93_Srnka.csproj.CoreCompileInputs.cache
 E:\FH\semester-3\Algodat Übung\Befunge93_Srnka\Befunge93_Srnka\obj\Debug\Befunge93_Srnka.exe
 E:\FH\semester-3\Algodat Übung\Befunge93_Srnka\Befunge93_Srnka\obj\Debug\Befunge93_Srnka.pdb
+E:\FH\semester-3\algodatrepo\srnka_nico_homeworks\Befunge93_Srnka\Befunge93_Srnka\bin\Debug\Befunge93_Srnka.exe.config
+E:\FH\semester-3\algodatrepo\srnka_nico_homeworks\Befunge93_Srnka\Befunge93_Srnka\bin\Debug\Befunge93_Srnka.exe
+E:\FH\semester-3\algodatrepo\srnka_nico_homeworks\Befunge93_Srnka\Befunge93_Srnka\bin\Debug\Befunge93_Srnka.pdb
+E:\FH\semester-3\algodatrepo\srnka_nico_homeworks\Befunge93_Srnka\Befunge93_Srnka\obj\Debug\Befunge93_Srnka.csprojAssemblyReference.cache
+E:\FH\semester-3\algodatrepo\srnka_nico_homeworks\Befunge93_Srnka\Befunge93_Srnka\obj\Debug\Befunge93_Srnka.csproj.CoreCompileInputs.cache
+E:\FH\semester-3\algodatrepo\srnka_nico_homeworks\Befunge93_Srnka\Befunge93_Srnka\obj\Debug\Befunge93_Srnka.exe
+E:\FH\semester-3\algodatrepo\srnka_nico_homeworks\Befunge93_Srnka\Befunge93_Srnka\obj\Debug\Befunge93_Srnka.pdb

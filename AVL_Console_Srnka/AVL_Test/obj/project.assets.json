@@ -4648,11 +4648,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\FH\\semester-3\\Algodat Übung\\AVL_Console_Srnka\\AVL_Test\\AVL_Test.csproj",
+      "projectUniqueName": "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\AVL_Console_Srnka\\AVL_Test\\AVL_Test.csproj",
       "projectName": "AVL_Test",
-      "projectPath": "E:\\FH\\semester-3\\Algodat Übung\\AVL_Console_Srnka\\AVL_Test\\AVL_Test.csproj",
+      "projectPath": "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\AVL_Console_Srnka\\AVL_Test\\AVL_Test.csproj",
       "packagesPath": "C:\\Users\\nicos\\.nuget\\packages\\",
-      "outputPath": "E:\\FH\\semester-3\\Algodat Übung\\AVL_Console_Srnka\\AVL_Test\\obj\\",
+      "outputPath": "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\AVL_Console_Srnka\\AVL_Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nicos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4668,8 +4668,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\FH\\semester-3\\Algodat Übung\\AVL_Console_Srnka\\AVL_Console_Srnka\\AVL_Console_Srnka.csproj": {
-              "projectPath": "E:\\FH\\semester-3\\Algodat Übung\\AVL_Console_Srnka\\AVL_Console_Srnka\\AVL_Console_Srnka.csproj"
+            "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\AVL_Console_Srnka\\AVL_Console_Srnka\\AVL_Console_Srnka.csproj": {
+              "projectPath": "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\AVL_Console_Srnka\\AVL_Console_Srnka\\AVL_Console_Srnka.csproj"
             }
           }
         }

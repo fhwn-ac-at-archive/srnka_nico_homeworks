@@ -1,28 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "E:\\FH\\semester-3\\Algodat Übung\\SudokuSolver_Srnka\\UnitTesting\\UnitTesting.csproj": {}
+    "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\SudokuSolver_Srnka\\UnitTesting\\UnitTesting.csproj": {}
   },
   "projects": {
-    "E:\\FH\\semester-3\\Algodat Übung\\SudokuSolver_Srnka\\SudokuSolver_Srnka\\SudokuSolver_Srnka.csproj": {
+    "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\SudokuSolver_Srnka\\SudokuSolver_Srnka\\SudokuSolver_Srnka.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FH\\semester-3\\Algodat Übung\\SudokuSolver_Srnka\\SudokuSolver_Srnka\\SudokuSolver_Srnka.csproj",
+        "projectUniqueName": "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\SudokuSolver_Srnka\\SudokuSolver_Srnka\\SudokuSolver_Srnka.csproj",
         "projectName": "SudokuSolver_Srnka",
-        "projectPath": "E:\\FH\\semester-3\\Algodat Übung\\SudokuSolver_Srnka\\SudokuSolver_Srnka\\SudokuSolver_Srnka.csproj"
+        "projectPath": "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\SudokuSolver_Srnka\\SudokuSolver_Srnka\\SudokuSolver_Srnka.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "E:\\FH\\semester-3\\Algodat Übung\\SudokuSolver_Srnka\\UnitTesting\\UnitTesting.csproj": {
+    "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\SudokuSolver_Srnka\\UnitTesting\\UnitTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FH\\semester-3\\Algodat Übung\\SudokuSolver_Srnka\\UnitTesting\\UnitTesting.csproj",
+        "projectUniqueName": "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\SudokuSolver_Srnka\\UnitTesting\\UnitTesting.csproj",
         "projectName": "UnitTesting",
-        "projectPath": "E:\\FH\\semester-3\\Algodat Übung\\SudokuSolver_Srnka\\UnitTesting\\UnitTesting.csproj",
+        "projectPath": "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\SudokuSolver_Srnka\\UnitTesting\\UnitTesting.csproj",
         "packagesPath": "C:\\Users\\nicos\\.nuget\\packages\\",
-        "outputPath": "E:\\FH\\semester-3\\Algodat Übung\\SudokuSolver_Srnka\\UnitTesting\\obj\\",
+        "outputPath": "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\SudokuSolver_Srnka\\UnitTesting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,8 +38,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\FH\\semester-3\\Algodat Übung\\SudokuSolver_Srnka\\SudokuSolver_Srnka\\SudokuSolver_Srnka.csproj": {
-                "projectPath": "E:\\FH\\semester-3\\Algodat Übung\\SudokuSolver_Srnka\\SudokuSolver_Srnka\\SudokuSolver_Srnka.csproj"
+              "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\SudokuSolver_Srnka\\SudokuSolver_Srnka\\SudokuSolver_Srnka.csproj": {
+                "projectPath": "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\SudokuSolver_Srnka\\SudokuSolver_Srnka\\SudokuSolver_Srnka.csproj"
               }
             }
           }

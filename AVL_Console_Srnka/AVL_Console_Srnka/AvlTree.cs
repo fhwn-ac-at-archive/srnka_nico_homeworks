@@ -295,7 +295,7 @@ namespace AVL_Console_Srnka
 
         public bool Contains(int target, Node node)
         {
-            // Traverse untill root reaches to dead end 
+            // iterate until root equals null end of tree
             while (node != null)
             {
                 if (target > node.Data)

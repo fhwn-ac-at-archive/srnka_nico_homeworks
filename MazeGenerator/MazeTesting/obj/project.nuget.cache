@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2r5lav8fxCJrNwbP0qrtLiF+rI4IXTUF3cexbIvhYsgnhEHRZ+z7O96HHKIjvc+wix7MfVEwPOyOMIKudbeNow==",
+  "dgSpecHash": "wCWPk+gRiXOxniTtul5+tA5inRI/yYXg1wnuZfcQlwWDI1t5rYXr1sIOHmca3GFQ7pS30oHBdc4fcvyXKgQl3g==",
   "success": true,
-  "projectFilePath": "E:\\FH\\semester-3\\Algodat Übung\\MazeGenerator\\MazeTesting\\MazeTesting.csproj",
+  "projectFilePath": "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\MazeGenerator\\MazeTesting\\MazeTesting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nicos\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\nicos\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

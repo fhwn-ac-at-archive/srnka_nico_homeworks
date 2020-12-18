@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nl7pgDzVWzXaGD1mzkON5XVo//3juWHDA0L0ACDTf+JpkPpWO8LFwy5XbWy6cDoZc7iChyPuoD9yTB8AH7pztA==",
+  "dgSpecHash": "jBrTqdfe2uSx8tvkmEdH+ZH8XhGsv+UZLSVrNvs+serYLRYHbZXWU/EX0+nhwAhcWUqGIaijhKvcE/o/Gu1L2Q==",
   "success": true,
-  "projectFilePath": "E:\\FH\\semester-3\\Algodat Übung\\Befunge93_Srnka\\BefungeTester\\BefungeTester.csproj",
+  "projectFilePath": "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\Befunge93_Srnka\\BefungeTester\\BefungeTester.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nicos\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\nicos\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

@@ -113,6 +113,7 @@ namespace SudokuSolver_Srnka
             }
         }
 
+        //check if given board is valid before calculating. check before solving sudoku
         public bool ValidateBoard(int[,] grid)
         {
             for (int i = 0; i < 9; i++)

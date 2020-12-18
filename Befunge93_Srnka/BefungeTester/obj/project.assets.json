@@ -4648,11 +4648,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\FH\\semester-3\\Algodat Übung\\Befunge93_Srnka\\BefungeTester\\BefungeTester.csproj",
+      "projectUniqueName": "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\Befunge93_Srnka\\BefungeTester\\BefungeTester.csproj",
       "projectName": "BefungeTester",
-      "projectPath": "E:\\FH\\semester-3\\Algodat Übung\\Befunge93_Srnka\\BefungeTester\\BefungeTester.csproj",
+      "projectPath": "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\Befunge93_Srnka\\BefungeTester\\BefungeTester.csproj",
       "packagesPath": "C:\\Users\\nicos\\.nuget\\packages\\",
-      "outputPath": "E:\\FH\\semester-3\\Algodat Übung\\Befunge93_Srnka\\BefungeTester\\obj\\",
+      "outputPath": "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\Befunge93_Srnka\\BefungeTester\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nicos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4668,8 +4668,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\FH\\semester-3\\Algodat Übung\\Befunge93_Srnka\\Befunge93_Srnka\\Befunge93_Srnka.csproj": {
-              "projectPath": "E:\\FH\\semester-3\\Algodat Übung\\Befunge93_Srnka\\Befunge93_Srnka\\Befunge93_Srnka.csproj"
+            "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\Befunge93_Srnka\\Befunge93_Srnka\\Befunge93_Srnka.csproj": {
+              "projectPath": "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\Befunge93_Srnka\\Befunge93_Srnka\\Befunge93_Srnka.csproj"
             }
           }
         }

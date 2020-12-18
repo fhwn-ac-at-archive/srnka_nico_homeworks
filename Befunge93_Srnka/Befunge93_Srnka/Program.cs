@@ -10,9 +10,8 @@ namespace Befunge93_Srnka
     {
         static void Main(string[] args)
         {
-            Befunge s = new Befunge("mathoperations.bf");
+            Befunge s = new Befunge("testcaseone.bf");
             s.CalcBefunge();
-            s.BefungeStack.Peek();
             Console.ReadLine();
         }
     }

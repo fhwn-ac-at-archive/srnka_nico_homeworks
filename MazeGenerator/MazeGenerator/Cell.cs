@@ -21,9 +21,19 @@ namespace MazeGenerator
 
         public Cell(int row, int col)
         {
+            Links = new List<Cell>();
             Row = row;
             Col = col;
-            Links = new List<Cell>();
+        }
+
+        public Cell Unlink(Cell cell, bool bidirectional = true)
+        {
+            Links.Remove(cell);
+            if (bidirectional)
+            {
+                cell.Unlink(this, !bidirectional);
+            }
+            return this;
         }
 
         public Cell Link(Cell cell, bool bidirectional = true)
@@ -36,15 +46,7 @@ namespace MazeGenerator
             return this;
         }
 
-        public Cell Unlink(Cell cell, bool bidirectional = true)
-        {
-            Links.Remove(cell);
-            if (bidirectional)
-            {
-                cell.Unlink(this, !bidirectional);
-            }
-            return this;
-        }
+        
 
         public bool Linked(Cell cell) =>
           Links.Contains(cell);

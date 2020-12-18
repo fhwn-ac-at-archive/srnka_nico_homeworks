@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "03AOhJ0l31jEeFD1/TXzCR5GH3GRs0kP0a+CtAfw7io4MqzGKL6oI/QLB88hqgBH43/Xre+5llQS7r9skfULiQ==",
+  "dgSpecHash": "zOQBczNHJKB29Uu5luvK5HYh9ecMzHeoIka9eX4UVKZ8RM+hp4Ey9AUOvJJCcz+HaSTfwQUIzo+s3CaSH9EhEg==",
   "success": true,
-  "projectFilePath": "E:\\FH\\semester-3\\Algodat Übung\\AVL_Console_Srnka\\AVL_Test\\AVL_Test.csproj",
+  "projectFilePath": "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\AVL_Console_Srnka\\AVL_Test\\AVL_Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nicos\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\nicos\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

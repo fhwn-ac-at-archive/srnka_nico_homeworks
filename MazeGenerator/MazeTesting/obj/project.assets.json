@@ -4648,11 +4648,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\FH\\semester-3\\Algodat Übung\\MazeGenerator\\MazeTesting\\MazeTesting.csproj",
+      "projectUniqueName": "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\MazeGenerator\\MazeTesting\\MazeTesting.csproj",
       "projectName": "MazeTesting",
-      "projectPath": "E:\\FH\\semester-3\\Algodat Übung\\MazeGenerator\\MazeTesting\\MazeTesting.csproj",
+      "projectPath": "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\MazeGenerator\\MazeTesting\\MazeTesting.csproj",
       "packagesPath": "C:\\Users\\nicos\\.nuget\\packages\\",
-      "outputPath": "E:\\FH\\semester-3\\Algodat Übung\\MazeGenerator\\MazeTesting\\obj\\",
+      "outputPath": "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\MazeGenerator\\MazeTesting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nicos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4668,8 +4668,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\FH\\semester-3\\Algodat Übung\\MazeGenerator\\MazeGenerator\\MazeGenerator.csproj": {
-              "projectPath": "E:\\FH\\semester-3\\Algodat Übung\\MazeGenerator\\MazeGenerator\\MazeGenerator.csproj"
+            "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\MazeGenerator\\MazeGenerator\\MazeGenerator.csproj": {
+              "projectPath": "E:\\FH\\semester-3\\algodatrepo\\srnka_nico_homeworks\\MazeGenerator\\MazeGenerator\\MazeGenerator.csproj"
             }
           }
         }
